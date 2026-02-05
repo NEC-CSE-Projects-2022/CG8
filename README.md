@@ -1,5 +1,5 @@
 
-# Team Number – Project Title
+# CG8 – Rethinking Artificial Empathy with Emotion-Calibrated Hate Detection Models
 
 ## Team Info
 - 22471A05F7 — **Guggilam Chinmayee** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
@@ -49,9 +49,10 @@ Input Text → Preprocessing → Emotion Classification → Emotion Feature Inte
 
 **Dataset Details:**
 GoEmotions: 58k Reddit comments labeled across 27 emotions + neutral (converted to single-label)
+https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset
 
 Jigsaw: User comments labeled for toxicity (converted to binary classification)
-
+https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification/data
 ---
 
 ## Dependencies Used
