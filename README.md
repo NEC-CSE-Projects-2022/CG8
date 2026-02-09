@@ -5,10 +5,10 @@
 - 22471A05F7 — **Guggilam Chinmayee** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
 _Work Done: Problem formulation, model design_
 
-- 22471A05K8 — **Pichala Yagnapriya** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05K8 — **Pichala Yagnapriya** ( [LinkedIn](https://www.linkedin.com/in/yagnapriya-pichala-199865276/) )
 _Work Done: Data preprocessing, EDA, model training and evaluation_
 
-- 22471A05K7 — **Yadavalli Karthika** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05K7 — **Yadavalli Karthika** ( [LinkedIn](https://www.linkedin.com/in/karthika-yadavalli-48764a276/) )
 _Work Done: Dataset handling, feature engineering, baseline models_
 
 ---
